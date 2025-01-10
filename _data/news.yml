@@ -1,18 +1,10 @@
-- date: 01/08/25
-  title: "Switching our website to github"
+- date: 03/09/19
+  title: "Something great"
   tags:
-    - breaking news
-    - science communication
-  content: We're doing it! We are finally switching off of weebly. It has been a learning curve, 
-  but we're excited to keep developing this site.
-  
-- date: 01/05/25
-  title: "Kicking off our second year of extreme treatments in Kruger National Park"
-  tags:
-    - extreme fire
-    - drought
-    - herbivory
-    - Kruger National Park
-  content: Two of our lab members, Shelby Williford and Sophia Ronan, are heading across the Atlantic to our field 
-  site in Kruger National Park. They will be collecting LOTS of data to describe the effects of our compound extreme 
-  treatments. Good luck team!
+    - some
+    - tags
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
+    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
+    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
