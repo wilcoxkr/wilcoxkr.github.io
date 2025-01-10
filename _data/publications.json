@@ -1,38 +1,2765 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "http://zotero.org/groups/5820959/items/NCIW8JVB",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"container-title": "Journal of Ecology",
+		"issue": "6",
+		"page": "1649–1660",
+		"title": "Changes in plant community composition, not diversity, during a decade of nitrogen and phosphorus additions drive above-ground productivity in a tallgrass prairie",
+		"volume": "102",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Avolio",
+				"given": "Meghan L"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Koerner",
+				"given": "Sally E"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "La Pierre",
+				"given": "Kimberly J"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Wilson",
+				"given": "Gail WT"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/LSDXZPRI",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"issue": "1",
+		"page": "335–344",
+		"title": "Contrasting above-and belowground sensitivity of three Great Plains grasslands to altered rainfall regimes",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Fischer",
+				"given": "Joseph C",
+				"non-dropping-particle": "von"
+			},
+			{
+				"family": "Muscha",
+				"given": "Jennifer M"
+			},
+			{
+				"family": "Petersen",
+				"given": "Mark K"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/9UC2RABV",
+		"type": "article-journal",
+		"container-title": "Global change biology",
+		"issue": "7",
+		"page": "2624–2633",
+		"title": "Characterizing differences in precipitation regimes of extreme wet and dry years: implications for climate change experiments",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Hoover",
+				"given": "David L"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "La Pierre",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Loik",
+				"given": "Michael E"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			},
+			{
+				"family": "Sala",
+				"given": "Osvaldo E"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/3W9PZVWP",
+		"type": "article-journal",
+		"container-title": "Ecology",
+		"issue": "4",
+		"note": "publisher: Ecological Society of America",
+		"page": "808–816",
+		"title": "Plant community response to loss of large herbivores differs between North American and South African savanna grasslands",
+		"volume": "95",
+		"author": [
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Fynn",
+				"given": "Richard WS"
+			},
+			{
+				"family": "Burns",
+				"given": "Catherine E"
+			},
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Govender",
+				"given": "Navashni"
+			},
+			{
+				"family": "Hagenah",
+				"given": "Nicole"
+			},
+			{
+				"family": "Matchett",
+				"given": "Katherine J"
+			},
+			{
+				"family": "Thompson",
+				"given": "Dave I"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/U48CX72K",
+		"type": "article-journal",
+		"container-title": "Journal of Vegetation Science",
+		"issue": "3",
+		"page": "793–804",
+		"title": "Responses to fire differ between S outh A frican and N orth A merican grassland communities",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Kirkman",
+				"given": "Kevin P"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Burns",
+				"given": "Catherine E"
+			},
+			{
+				"family": "Fynn",
+				"given": "Richard WS"
+			},
+			{
+				"family": "Hagenah",
+				"given": "Nicole"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Matchett",
+				"given": "Katherine J"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/JAZHB929",
+		"type": "article-journal",
+		"container-title": "Oecologia",
+		"note": "publisher: Springer Berlin Heidelberg",
+		"page": "293–303",
+		"title": "Loss of a large grazer impacts savanna grassland plant communities similarly in North America and South Africa",
+		"volume": "175",
+		"author": [
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Fynn",
+				"given": "Richard WS"
+			},
+			{
+				"family": "Burns",
+				"given": "Catherine E"
+			},
+			{
+				"family": "Govender",
+				"given": "Navashni"
+			},
+			{
+				"family": "Hagenah",
+				"given": "Nicole"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Matchett",
+				"given": "Katherine J"
+			},
+			{
+				"family": "Thompson",
+				"given": "Dave I"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/GQGL7EZP",
+		"type": "article-journal",
+		"container-title": "Ecology",
+		"issue": "9",
+		"note": "publisher: Ecological Society of America",
+		"page": "2328–2335",
+		"title": "Stoichiometric homeostasis predicts plant species dominance, temporal stability, and responses to global change",
+		"volume": "96",
+		"author": [
+			{
+				"family": "Yu",
+				"given": "Qiang"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Pierre",
+				"given": "Kimberly La"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Han",
+				"given": "Xingguo"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/SA5GCBGY",
+		"type": "article-journal",
+		"container-title": "Ecology",
+		"issue": "3",
+		"page": "561–568",
+		"title": "Does ecosystem sensitivity to precipitation at the site-level conform to regional-scale predictions?",
+		"volume": "97",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Blair",
+				"given": "John M"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/S5AXH32U",
+		"type": "article-journal",
+		"container-title": "Journal of Geophysical Research: Biogeosciences",
+		"issue": "7",
+		"page": "1934–1945",
+		"title": "Stability of grassland soil C and N pools despite 25 years of an extreme climatic and disturbance regime",
+		"volume": "121",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Blair",
+				"given": "John M"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/PCGH9MP6",
+		"type": "article-journal",
+		"container-title": "Nature communications",
+		"issue": "1",
+		"note": "publisher: Nature Publishing Group UK London",
+		"page": "11973",
+		"title": "Dual mechanisms regulate ecosystem stability under decade-long warming and hay harvest",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Shi",
+				"given": "Zheng"
+			},
+			{
+				"family": "Xu",
+				"given": "Xia"
+			},
+			{
+				"family": "Souza",
+				"given": "Lara"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Jiang",
+				"given": "Lifen"
+			},
+			{
+				"family": "Liang",
+				"given": "Junyi"
+			},
+			{
+				"family": "Xia",
+				"given": "Jianyang"
+			},
+			{
+				"family": "García-Palacios",
+				"given": "Pablo"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/LFV6R3TS",
+		"type": "article-journal",
+		"container-title": "BioScience",
+		"issue": "8",
+		"note": "publisher: Oxford University Press",
+		"page": "666–682",
+		"title": "Shared drivers but divergent ecological responses: Insights from long-term experiments in mesic savanna grasslands",
+		"volume": "66",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Kirkman",
+				"given": "Kevin P"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Thompson",
+				"given": "Dave I"
+			},
+			{
+				"family": "Blair",
+				"given": "John M"
+			},
+			{
+				"family": "Burns",
+				"given": "Catherine E"
+			},
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/3NXSGN6N",
+		"type": "article-journal",
+		"container-title": "Oikos",
+		"issue": "11",
+		"note": "publisher: Blackwell Publishing Ltd Oxford, UK",
+		"page": "1636–1646",
+		"title": "Fire frequency drives habitat selection by a diverse herbivore guild impacting top–down control of plant communities in an African savanna",
+		"volume": "125",
+		"author": [
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Thompson",
+				"given": "Dave I"
+			},
+			{
+				"family": "Fynn",
+				"given": "Richard WS"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Govender",
+				"given": "Navashni"
+			},
+			{
+				"family": "Hagenah",
+				"given": "Nicole"
+			},
+			{
+				"family": "Lemoine",
+				"given": "Nathan P"
+			},
+			{
+				"family": "Matchett",
+				"given": "Katherine J"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/PFERYHYR",
+		"type": "article-journal",
+		"container-title": "Journal of Ecology",
+		"issue": "5",
+		"page": "1478–1487",
+		"title": "Nutrient additions cause divergence of tallgrass prairie plant communities resulting in loss of ecosystem stability",
+		"volume": "104",
+		"author": [
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "La Pierre",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/ZNR9Y5KX",
+		"type": "thesis",
+		"genre": "PhD Thesis",
+		"publisher": "Colorado State University",
+		"title": "Assessing grassland sensitivity to global change",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin Rory"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/7N636TCE",
+		"type": "article-journal",
+		"container-title": "Ecosphere",
+		"issue": "12",
+		"note": "publisher: Ecological Society of America",
+		"page": "1–14",
+		"title": "A framework for quantifying the magnitude and variability of community responses to global change drivers",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Pierre",
+				"given": "Kimberly J La"
+			},
+			{
+				"family": "Houseman",
+				"given": "Gregory R"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Johnson",
+				"given": "David Samuel"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/AIP8BKLB",
+		"type": "article-journal",
+		"container-title": "Ecosystems",
+		"note": "publisher: Springer US",
+		"page": "515–526",
+		"title": "Warming effects on ecosystem carbon fluxes are modulated by plant functional types",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Ji"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			},
+			{
+				"family": "Xia",
+				"given": "Jianyang"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Cao",
+				"given": "Junji"
+			},
+			{
+				"family": "Zhou",
+				"given": "Xuhui"
+			},
+			{
+				"family": "Jiang",
+				"given": "Lifen"
+			},
+			{
+				"family": "Niu",
+				"given": "Shuli"
+			},
+			{
+				"family": "Estera",
+				"given": "Katerina Y"
+			},
+			{
+				"family": "Huang",
+				"given": "Rujin"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/KRQY7SVM",
+		"type": "article-journal",
+		"container-title": "Journal of Ecology",
+		"issue": "3",
+		"page": "674–686",
+		"title": "Herbivore size matters for productivity–richness relationships in A frican savannas",
+		"volume": "105",
+		"author": [
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Fynn",
+				"given": "Richard WS"
+			},
+			{
+				"family": "Thompson",
+				"given": "Dave I"
+			},
+			{
+				"family": "Lemoine",
+				"given": "Nathan P"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Hagenah",
+				"given": "Nicole"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Kirkman",
+				"given": "Kevin P"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/VD9AWK2D",
+		"type": "article-journal",
+		"container-title": "Journal of vegetation science",
+		"issue": "2",
+		"page": "235–237",
+		"title": "Assessing community and ecosystem sensitivity to climate change–toward a more comparative approach",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Power",
+				"given": "Sally A"
+			},
+			{
+				"family": "Tissue",
+				"given": "David T"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/6CDQF4WF",
+		"type": "article-journal",
+		"container-title": "Global change biology",
+		"issue": "10",
+		"page": "4376–4385",
+		"title": "Asymmetric responses of primary productivity to precipitation extremes: a synthesis of grassland precipitation manipulation experiments",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Shi",
+				"given": "Zheng"
+			},
+			{
+				"family": "Gherardi",
+				"given": "Laureano A"
+			},
+			{
+				"family": "Lemoine",
+				"given": "Nathan P"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Hoover",
+				"given": "David L"
+			},
+			{
+				"family": "Bork",
+				"given": "Edward"
+			},
+			{
+				"family": "Byrne",
+				"given": "Kerry M"
+			},
+			{
+				"family": "Cahill Jr",
+				"given": "James"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/5HBV8EJ6",
+		"type": "article-journal",
+		"container-title": "Ecology letters",
+		"issue": "12",
+		"page": "1534–1545",
+		"title": "Asynchrony among local communities stabilises ecosystem function of metacommunities",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Tredennick",
+				"given": "Andrew T"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Hallett",
+				"given": "Lauren M"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "La Pierre",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Houseman",
+				"given": "Gregory R"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Johnson",
+				"given": "David Samuel"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/JQ6KEUHA",
+		"type": "article-journal",
+		"container-title": "Functional Ecology",
+		"issue": "1",
+		"page": "50–60",
+		"title": "C: N: P stoichiometry in China's forests: From organs to ecosystems",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Jiahui"
+			},
+			{
+				"family": "Zhao",
+				"given": "Ning"
+			},
+			{
+				"family": "Liu",
+				"given": "Congcong"
+			},
+			{
+				"family": "Yang",
+				"given": "Hao"
+			},
+			{
+				"family": "Li",
+				"given": "Meiling"
+			},
+			{
+				"family": "Yu",
+				"given": "Guirui"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Yu",
+				"given": "Qiang"
+			},
+			{
+				"family": "He",
+				"given": "Nianpeng"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/K9ZFD8CD",
+		"type": "article-journal",
+		"container-title": "Global change biology",
+		"issue": "10",
+		"page": "4993–5003",
+		"title": "Successional change in species composition alters climate sensitivity of grassland productivity",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Shi",
+				"given": "Zheng"
+			},
+			{
+				"family": "Lin",
+				"given": "Yang"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Souza",
+				"given": "Lara"
+			},
+			{
+				"family": "Jiang",
+				"given": "Lifen"
+			},
+			{
+				"family": "Jiang",
+				"given": "Jiang"
+			},
+			{
+				"family": "Jung",
+				"given": "Chang Gyo"
+			},
+			{
+				"family": "Xu",
+				"given": "Xia"
+			},
+			{
+				"family": "Yuan",
+				"given": "Mengting"
+			},
+			{
+				"family": "Guo",
+				"given": "Xue"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/3GGVEE2Y",
+		"type": "article-journal",
+		"container-title": "Ecosphere",
+		"issue": "1",
+		"page": "e02088",
+		"title": "Experimental droughts with rainout shelters: a methodological review",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Hoover",
+				"given": "David L"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Young",
+				"given": "Kristina E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/4BYS2UHI",
+		"type": "article-journal",
+		"container-title": "Biogeosciences",
+		"issue": "11",
+		"note": "publisher: Copernicus GmbH",
+		"page": "3421–3437",
+		"title": "Asymmetric responses of primary productivity to altered precipitation simulated by ecosystem models across three long-term grassland sites",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Wu",
+				"given": "Donghai"
+			},
+			{
+				"family": "Ciais",
+				"given": "Philippe"
+			},
+			{
+				"family": "Viovy",
+				"given": "Nicolas"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Bahn",
+				"given": "Michael"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Vicca",
+				"given": "Sara"
+			},
+			{
+				"family": "Fatichi",
+				"given": "Simone"
+			},
+			{
+				"family": "Zscheischler",
+				"given": "Jakob"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/JK6GP7BE",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"issue": "12",
+		"page": "5668–5679",
+		"title": "Ambient changes exceed treatment effects on plant species abundance in global change experiments",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Langley",
+				"given": "J Adam"
+			},
+			{
+				"family": "Chapman",
+				"given": "Samantha K"
+			},
+			{
+				"family": "La Pierre",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan"
+			},
+			{
+				"family": "Bowman",
+				"given": "William D"
+			},
+			{
+				"family": "Johnson",
+				"given": "David S"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Foster",
+				"given": "Bryan L"
+			},
+			{
+				"family": "Hovenden",
+				"given": "Mark J"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/8FYN92W9",
+		"type": "article-journal",
+		"container-title": "Terrestrial Ecosystem Research Infrastructures",
+		"note": "publisher: CRC Press",
+		"page": "137–162",
+		"title": "Frontiers of Ecosystem Modeling and Large-Scale Experiments",
+		"author": [
+			{
+				"family": "Jiang",
+				"given": "Lifen"
+			},
+			{
+				"family": "Jiang",
+				"given": "Jiang"
+			},
+			{
+				"family": "Liang",
+				"given": "Junyi"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Pockman",
+				"given": "William T"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/FVQXNLWJ",
+		"type": "article-journal",
+		"container-title": "Ecosphere",
+		"issue": "10",
+		"page": "e02881",
+		"title": "A comprehensive approach to analyzing community dynamics using rank abundance curves",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Carroll",
+				"given": "Ian T"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Houseman",
+				"given": "Gregory R"
+			},
+			{
+				"family": "Hallett",
+				"given": "Lauren M"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/NDK4LQ6P",
+		"type": "article-journal",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"issue": "36",
+		"note": "publisher: National Academy of Sciences",
+		"page": "17867–17873",
+		"title": "Global change effects on plant communities are magnified by time and the number of global change factors imposed",
+		"volume": "116",
+		"author": [
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Lemoine",
+				"given": "Nathan P"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Houseman",
+				"given": "Gregory R"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Johnson",
+				"given": "David S"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Alatalo",
+				"given": "Juha M"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/P2G49A9P",
+		"type": "article-journal",
+		"container-title": "Journal of Ecology",
+		"issue": "3",
+		"page": "855–864",
+		"title": "Mass ratio effects underlie ecosystem responses to environmental change",
+		"volume": "108",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Chaves",
+				"given": "Francis A"
+			},
+			{
+				"family": "Denton",
+				"given": "Elsie M"
+			},
+			{
+				"family": "Dietrich",
+				"given": "John"
+			},
+			{
+				"family": "Gibson",
+				"given": "David J"
+			},
+			{
+				"family": "Gray",
+				"given": "Jesse"
+			},
+			{
+				"family": "Hoffman",
+				"given": "Ava M"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/GGJXFB8W",
+		"type": "article-journal",
+		"container-title": "Ecology",
+		"issue": "4",
+		"page": "e02983",
+		"title": "Rapid recovery of ecosystem function following extreme drought in a South African savanna grassland",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Hoover",
+				"given": "David L"
+			},
+			{
+				"family": "Borkenhagen",
+				"given": "Andrea K"
+			},
+			{
+				"family": "Burkepile",
+				"given": "Deron E"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Hoffman",
+				"given": "Ava M"
+			},
+			{
+				"family": "Kirkman",
+				"given": "Kevin P"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Strydom",
+				"given": "Tercia"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/DN2IJ6YZ",
+		"type": "article-journal",
+		"container-title": "Journal of Ecology",
+		"issue": "6",
+		"note": "publisher: Wiley Online Library",
+		"page": "2336–2351",
+		"title": "Traits link drought resistance with herbivore defence and plant economics in semi-arid grasslands: The central roles of phenology and leaf dry matter content",
+		"volume": "108",
+		"author": [
+			{
+				"family": "Blumenthal",
+				"given": "Dana M"
+			},
+			{
+				"family": "Mueller",
+				"given": "Kevin E"
+			},
+			{
+				"family": "Kray",
+				"given": "Julie A"
+			},
+			{
+				"family": "Ocheltree",
+				"given": "Troy W"
+			},
+			{
+				"family": "Augustine",
+				"given": "David J"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/Y35EHP7Z",
+		"type": "article-journal",
+		"container-title": "Nature Communications",
+		"issue": "1",
+		"note": "publisher: Nature Publishing Group UK London",
+		"page": "5375",
+		"title": "General destabilizing effects of eutrophication on grassland productivity at multiple spatial scales",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Hautier",
+				"given": "Yann"
+			},
+			{
+				"family": "Zhang",
+				"given": "Pengfei"
+			},
+			{
+				"family": "Loreau",
+				"given": "Michel"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Seabloom",
+				"given": "Eric W"
+			},
+			{
+				"family": "Borer",
+				"given": "Elizabeth T"
+			},
+			{
+				"family": "Byrnes",
+				"given": "Jarrett EK"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Lefcheck",
+				"given": "Jonathan S"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/IT5QQV25",
+		"type": "article-journal",
+		"container-title": "New Phytologist",
+		"issue": "4",
+		"page": "2007–2019",
+		"title": "Plant traits related to precipitation sensitivity of species and communities in semiarid shortgrass prairie",
+		"volume": "229",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Blumenthal",
+				"given": "Dana M"
+			},
+			{
+				"family": "Kray",
+				"given": "Julie A"
+			},
+			{
+				"family": "Mueller",
+				"given": "Kevin E"
+			},
+			{
+				"family": "Derner",
+				"given": "Justin D"
+			},
+			{
+				"family": "Ocheltree",
+				"given": "Troy"
+			},
+			{
+				"family": "Porensky",
+				"given": "Lauren M"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/NY26U2UB",
+		"type": "article-journal",
+		"container-title": "New Phytologist",
+		"issue": "5",
+		"page": "1467–1471",
+		"title": "Improving collaborations between empiricists and modelers to advance grassland community dynamics in ecosystem models",
+		"volume": "228",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Consortium",
+				"given": "C2E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/XGMZK4T7",
+		"type": "article-journal",
+		"container-title": "Global Change Biology",
+		"issue": "1",
+		"page": "13–26",
+		"title": "Beyond ecosystem modeling: A roadmap to community cyberinfrastructure for ecological data-model integration",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Fer",
+				"given": "Istem"
+			},
+			{
+				"family": "Gardella",
+				"given": "Anthony K"
+			},
+			{
+				"family": "Shiklomanov",
+				"given": "Alexey N"
+			},
+			{
+				"family": "Campbell",
+				"given": "Eleanor E"
+			},
+			{
+				"family": "Cowdery",
+				"given": "Elizabeth M"
+			},
+			{
+				"family": "De Kauwe",
+				"given": "Martin G"
+			},
+			{
+				"family": "Desai",
+				"given": "Ankur"
+			},
+			{
+				"family": "Duveneck",
+				"given": "Matthew J"
+			},
+			{
+				"family": "Fisher",
+				"given": "Joshua B"
+			},
+			{
+				"family": "Haynes",
+				"given": "Katherine D"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/N2HERFMQ",
+		"type": "article-journal",
+		"container-title": "Oecologia",
+		"note": "publisher: Springer Berlin Heidelberg",
+		"page": "735–744",
+		"title": "Temporal variability in production is not consistently affected by global change drivers across herbaceous-dominated ecosystems",
+		"volume": "194",
+		"author": [
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Lemoine",
+				"given": "Nathan"
+			},
+			{
+				"family": "Bowman",
+				"given": "William D"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Baer",
+				"given": "Sara G"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/6EKUT3Z5",
+		"type": "article-journal",
+		"container-title": "Ecology and evolution",
+		"issue": "13",
+		"page": "6702–6713",
+		"title": "Drought mildly reduces plant dominance in a temperate prairie ecosystem across years",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Castillioni",
+				"given": "Karen"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Jiang",
+				"given": "Lifen"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			},
+			{
+				"family": "Jung",
+				"given": "Chang Gyo"
+			},
+			{
+				"family": "Souza",
+				"given": "Lara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/VXQF2MNL",
+		"type": "article-journal",
+		"container-title": "Ecology Letters",
+		"issue": "10",
+		"note": "publisher: Wiley Online Library",
+		"page": "2054–2064",
+		"title": "Grazing-induced biodiversity loss impairs grassland ecosystem stability at multiple scales",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Liang",
+				"given": "Maowei"
+			},
+			{
+				"family": "Liang",
+				"given": "Cunzhu"
+			},
+			{
+				"family": "Hautier",
+				"given": "Yann"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Wang",
+				"given": "Shaopeng"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/IGA5LFEN",
+		"type": "article-journal",
+		"container-title": "Ecological Indicators",
+		"note": "publisher: Elsevier",
+		"page": "108139",
+		"title": "Resistance and resilience of a semi-arid grassland to multi-year extreme drought",
+		"volume": "131",
+		"author": [
+			{
+				"family": "Xu",
+				"given": "Chong"
+			},
+			{
+				"family": "Ke",
+				"given": "Yuguang"
+			},
+			{
+				"family": "Zhou",
+				"given": "Wei"
+			},
+			{
+				"family": "Luo",
+				"given": "Wentao"
+			},
+			{
+				"family": "Ma",
+				"given": "Wang"
+			},
+			{
+				"family": "Song",
+				"given": "Lin"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Hoover",
+				"given": "David L"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Fu",
+				"given": "Wei"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/F8TSCZ4V",
+		"type": "article-journal",
+		"container-title": "Ecology Letters",
+		"issue": "9",
+		"page": "1892–1904",
+		"title": "Determinants of community compositional change are equally affected by global change",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Tredennick",
+				"given": "Andrew T"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Baer",
+				"given": "Sara"
+			},
+			{
+				"family": "Boughton",
+				"given": "Elizabeth H"
+			},
+			{
+				"family": "Britton",
+				"given": "Andrea J"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/NAPXIDY6",
+		"type": "document",
+		"publisher": "John Wiley & Sons, Inc. Hoboken, USA",
+		"title": "Do trade-offs govern plant species’ responses to different global change treatments?",
+		"author": [
+			{
+				"family": "Langley",
+				"given": "J Adam"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Baldwin",
+				"given": "Andrew H"
+			},
+			{
+				"family": "Bowman",
+				"given": "William"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/RQ5INV5F",
+		"type": "article-journal",
+		"container-title": "Ecological Applications",
+		"issue": "8",
+		"note": "publisher: John Wiley & Sons, Inc. Hoboken, USA",
+		"page": "e2684",
+		"title": "N and P constrain C in ecosystems under climate change: Role of nutrient redistribution, accumulation, and stoichiometry",
+		"volume": "32",
+		"author": [
+			{
+				"family": "Rastetter",
+				"given": "Edward B"
+			},
+			{
+				"family": "Kwiatkowski",
+				"given": "Bonnie L"
+			},
+			{
+				"family": "Kicklighter",
+				"given": "David W"
+			},
+			{
+				"family": "Barker Plotkin",
+				"given": "Audrey"
+			},
+			{
+				"family": "Genet",
+				"given": "Helene"
+			},
+			{
+				"family": "Nippert",
+				"given": "Jesse B"
+			},
+			{
+				"family": "O'Keefe",
+				"given": "Kimberly"
+			},
+			{
+				"family": "Perakis",
+				"given": "Steven S"
+			},
+			{
+				"family": "Porder",
+				"given": "Stephen"
+			},
+			{
+				"family": "Roley",
+				"given": "Sarah S"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/GUZTFW4F",
+		"type": "article-journal",
+		"container-title": "Ecology",
+		"issue": "11",
+		"note": "publisher: John Wiley & Sons, Inc. Hoboken, USA",
+		"page": "e3799",
+		"title": "Water availability dictates how plant traits predict demographic rates",
+		"volume": "103",
+		"author": [
+			{
+				"family": "Stears",
+				"given": "Alice E"
+			},
+			{
+				"family": "Adler",
+				"given": "Peter B"
+			},
+			{
+				"family": "Blumenthal",
+				"given": "Dana M"
+			},
+			{
+				"family": "Kray",
+				"given": "Julie A"
+			},
+			{
+				"family": "Mueller",
+				"given": "Kevin E"
+			},
+			{
+				"family": "Ocheltree",
+				"given": "Troy W"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Laughlin",
+				"given": "Daniel C"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/YI2ED9DC",
+		"type": "article-journal",
+		"container-title": "Applied Vegetation Science",
+		"issue": "3",
+		"page": "e12674",
+		"title": "Standardized indices to estimate sensitivity to drought across ecosystems",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Bondaruk",
+				"given": "Viviana F"
+			},
+			{
+				"family": "Oñatibia",
+				"given": "Gastón R"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Yahdjian",
+				"given": "Laura"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/KS865EYH",
+		"type": "article-journal",
+		"container-title": "Geoscientific Model Development",
+		"issue": "22",
+		"note": "publisher: Copernicus GmbH",
+		"page": "8153–8180",
+		"title": "Modeling demographic-driven vegetation dynamics and ecosystem biogeochemical cycling in NASA GISS's Earth system model (ModelE-BiomeE v. 1.0)",
+		"volume": "15",
+		"author": [
+			{
+				"family": "Weng",
+				"given": "Ensheng"
+			},
+			{
+				"family": "Aleinov",
+				"given": "Igor"
+			},
+			{
+				"family": "Singh",
+				"given": "Ram"
+			},
+			{
+				"family": "Puma",
+				"given": "Michael J"
+			},
+			{
+				"family": "McDermid",
+				"given": "Sonali S"
+			},
+			{
+				"family": "Kiang",
+				"given": "Nancy Y"
+			},
+			{
+				"family": "Kelley",
+				"given": "Maxwell"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin"
+			},
+			{
+				"family": "Dybzinski",
+				"given": "Ray"
+			},
+			{
+				"family": "Farrior",
+				"given": "Caroline E"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/CGEZA4E5",
+		"type": "article-journal",
+		"container-title": "Ecosphere",
+		"issue": "10",
+		"note": "publisher: Wiley Online Library",
+		"page": "e4249",
+		"title": "Making sense of multivariate community responses in global change experiments",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Isbell",
+				"given": "Forest"
+			},
+			{
+				"family": "Johnson",
+				"given": "David S"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Alatalo",
+				"given": "Juha M"
+			},
+			{
+				"family": "Baldwin",
+				"given": "Andrew H"
+			},
+			{
+				"family": "Beierkuhnlein",
+				"given": "Carl"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/748725T3",
+		"type": "article-journal",
+		"container-title": "Rangeland Ecology & Management",
+		"note": "publisher: Elsevier",
+		"page": "1–12",
+		"title": "Consequences of Rainfall Manipulations for Invasive Annual Grasses Vary Across Grazed Northern Mixed-Grass Prairie Sites",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Frost",
+				"given": "Morgan DT"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Porensky",
+				"given": "Lauren M"
+			},
+			{
+				"family": "Reinhart",
+				"given": "Kurt O"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/692H8WWE",
+		"type": "article-journal",
+		"container-title": "Oecologia",
+		"issue": "3",
+		"note": "publisher: Springer",
+		"page": "649–659",
+		"title": "Richness, not evenness, varies across water availability gradients in grassy biomes on five continents",
+		"volume": "199",
+		"author": [
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Eby",
+				"given": "Stephanie"
+			},
+			{
+				"family": "Forrestel",
+				"given": "Elisabeth J"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Ahumada",
+				"given": "Rodrigo"
+			},
+			{
+				"family": "Morgan",
+				"given": "John W"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/YN4MPCIM",
+		"type": "article-journal",
+		"container-title": "Biogeosciences",
+		"issue": "13",
+		"note": "publisher: Copernicus Publications Göttingen, Germany",
+		"page": "2707–2725",
+		"title": "Assessing carbon storage capacity and saturation across six central US grasslands using data–model integration",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott L"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Pockman",
+				"given": "William"
+			},
+			{
+				"family": "Shi",
+				"given": "Zheng"
+			},
+			{
+				"family": "Smith",
+				"given": "Melinda D"
+			},
+			{
+				"family": "Luo",
+				"given": "Yiqi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/8TZUHBAD",
+		"type": "article-journal",
+		"container-title": "New Phytologist",
+		"issue": "2",
+		"note": "publisher: Univ. of Wyoming, Laramie, WY (United States)",
+		"title": "Catching up with the trees: empirical advancements to improve herbaceous representation in models",
+		"volume": "239",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/GK9FBTG7",
+		"type": "article-journal",
+		"container-title": "Global change biology",
+		"issue": "23",
+		"page": "6453–6477",
+		"title": "Accounting for herbaceous communities in process-based models will advance our understanding of “grassy” ecosystems",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Chen",
+				"given": "Anping"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Butler",
+				"given": "Ethan E"
+			},
+			{
+				"family": "Collins",
+				"given": "Scott"
+			},
+			{
+				"family": "Fisher",
+				"given": "Rosie"
+			},
+			{
+				"family": "Keenan",
+				"given": "Trevor"
+			},
+			{
+				"family": "Kiang",
+				"given": "Nancy Y"
+			},
+			{
+				"family": "Knapp",
+				"given": "Alan K"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/8PIDFSWP",
+		"type": "article-journal",
+		"container-title": "Scientific Data",
+		"issue": "1",
+		"note": "publisher: Nature Publishing Group UK London",
+		"page": "795",
+		"title": "CoRRE Trait Data: A dataset of 17 categorical and continuous traits for 4079 grassland species worldwide",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Avolio",
+				"given": "Meghan L"
+			},
+			{
+				"family": "Padullés Cubino",
+				"given": "Josep"
+			},
+			{
+				"family": "Schrodt",
+				"given": "Franziska"
+			},
+			{
+				"family": "Auge",
+				"given": "Harald"
+			},
+			{
+				"family": "Cavender-Bares",
+				"given": "Jeannine"
+			},
+			{
+				"family": "Clark",
+				"given": "Adam T"
+			},
+			{
+				"family": "Flores-Moreno",
+				"given": "Habacuc"
+			},
+			{
+				"family": "Grman",
+				"given": "Emily"
+			},
+			{
+				"family": "Harpole",
+				"given": "W Stanley"
+			},
+			{
+				"literal": "others"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5820959/items/9ERDT8M3",
+		"type": "article-journal",
+		"container-title": "Oikos",
+		"issue": "6",
+		"note": "publisher: Wiley Online Library",
+		"page": "e10515",
+		"title": "Plant, insect, and soil microbial communities vary across brome invasion gradients in northern mixed-grass prairies",
+		"volume": "2024",
+		"author": [
+			{
+				"family": "Frost",
+				"given": "Morgan DT"
+			},
+			{
+				"family": "Komatsu",
+				"given": "Kimberly J"
+			},
+			{
+				"family": "Porensky",
+				"given": "Lauren M"
+			},
+			{
+				"family": "Reinhart",
+				"given": "Kurt O"
+			},
+			{
+				"family": "Wilcox",
+				"given": "Kevin R"
+			},
+			{
+				"family": "Bunch",
+				"given": "Zachary LT"
+			},
+			{
+				"family": "Jolin",
+				"given": "Ashley D"
+			},
+			{
+				"family": "Johnston",
+				"given": "Katielyn A"
+			},
+			{
+				"family": "Trimas",
+				"given": "Gracen E"
+			},
+			{
+				"family": "Koerner",
+				"given": "Sally E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
 				]
 			]
 		}
